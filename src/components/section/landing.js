@@ -8,7 +8,7 @@ export function Landing() {
       <p className="bottom-space" style={{marginBottom:'100px'}} />
       
           <div className='row' style={{flexFlow:'column'}}>
-            <h2 style={{fontSize: '30px', fontWeight: '100', textAlign: 'center', fontFamily:'Montserrat', letterSpacing: '0.5em'}}>
+            <h2 style={{fontSize: '23px', fontWeight: '100', textAlign: 'center', fontFamily:'Montserrat', letterSpacing: '0.5em'}}>
                              <i>HODL </i><b>DOGE-1</b> TOKEN
                         </h2>
                         <h2 style={{fontSize: '20px', fontWeight: '100', textAlign: 'center', fontFamily:'Montserrat', letterSpacing: '0.35em'}}>
@@ -17,10 +17,10 @@ export function Landing() {
                         <h2 style={{fontSize: '20px', fontWeight: '100', textAlign: 'center', fontFamily:'Montserrat', letterSpacing:'8px'}}>
                             &
                         </h2>
-                        <h2 style={{fontSize: '25px', fontWeight: '500', textAlign: 'center'}}>
+                        <h2 style={{fontSize: '17px', fontWeight: '500', textAlign: 'center'}}>
                             <b>d</b>o <b>o</b>nly <b>g</b>ood <b>e</b>veryday
                         </h2>
-                    </div>
+                        </div>
                     
                         <p className="bottom-space" style={{marginBottom:'500px'}} />
                         <div className='float-div2'>

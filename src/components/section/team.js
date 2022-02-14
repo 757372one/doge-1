@@ -28,10 +28,11 @@ export function Team() {
                   <div className='token__container'>
                     <div className='info__container-card'>
                       <div className='info__container-cardInfo'>
-                        <h2>ECONOMICS</h2>
+                        <h2>BUSINESS</h2>
                         <h2 style={{marginTop:'5px'}}>
-                            <img src="images/web/doge_team.png" alt="" style={{margin:'-15px'}} />
+                            <img src="images/web/doge_team.png"  alt="" style={{margin:'-15px', width:'70px'}} />
                         </h2>
+                        <p>Captain Shiba</p>
                         <div className='icon-row'>
                         <div className='col'>
                             <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
@@ -70,9 +71,10 @@ export function Team() {
                     <div className='info__container-card'>
                     <div className='info__container-cardInfo'>
                         <h2>DEVELOPMENT</h2>
-                        <h2 style={{marginTop:'5px'}}>
+                        <h2 style={{marginTop:'0px'}}>
                             <img src="images/web/doge_team1.png" alt="" style={{margin:'-5px'}} />
                         </h2>
+                        <p>Shibtoshi Dogemoto</p>
                         <div className='icon-row'>
                         <div className='col'>
                             <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
