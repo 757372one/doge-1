@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef544d5c.css",
+    "main.js": "/static/js/main.e018d177.js",
+    "static/media/moonmap4k.jpg": "/static/media/moonmap4k.7fd77d89724523fd61ab.jpg",
+    "static/media/dogecloud.png": "/static/media/dogecloud.6bb19ba60637b9675f14.png",
+    "static/media/face.png": "/static/media/face.317c4c21b0de66d7bf60.png",
+    "index.html": "/index.html",
+    "main.ef544d5c.css.map": "/static/css/main.ef544d5c.css.map",
+    "main.e018d177.js.map": "/static/js/main.e018d177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef544d5c.css",
+    "static/js/main.e018d177.js"
+  ]
+}
