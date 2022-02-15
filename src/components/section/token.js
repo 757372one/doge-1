@@ -36,9 +36,6 @@ export function Token() {
                             <a href="https://t.me/doge1_token"><h3><img src="images/web/telegram_icon.png" alt="" style={{margin:'5px'}} /></h3></a>
                             </div>
                             <div className='col'>
-                            <a href="https://discord.gg/DJKmu3gZ88"><img src="images/web/discord_icon.png" width="150px" alt="" style={{margin:'5px'}} /></a>
-                            </div>
-                            <div className='col'>
                             <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'5px'}} /></h3></a>
                             </div>
                           </div>

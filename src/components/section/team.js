@@ -35,15 +35,13 @@ export function Team() {
                       <img src='images/web/doge_team.png' alt='' width="125px" className='home__hero-img' />
                       <p style={{textAlign: 'center'}}>Business Team</p>
                       <div className='icon-row2'>
-                        <div className='col'>
-                            <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
+                      <div className='col'>
+                            <a href="https://t.me/jessmnt"><h3><img src="images/web/telegram_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
                             <div className='col'>
                             <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
-                            <div className='col'>
-                            <a href="https://discord.gg/DJKmu3gZ88"><h3><img src="images/web/discord_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
-                            </div>
+                            
                           </div>
                       </div>
                     </div>
@@ -74,14 +72,11 @@ export function Team() {
                       <img src='images/web/doge_team1.png' alt='' width="125px" className='home__hero-img' />
                       <p style={{textAlign: 'center'}}>Astro Devs</p>
                       <div className='icon-row2'>
-                        <div className='col'>
-                            <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
-                            </div>
                             <div className='col'>
                             <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
                             <div className='col'>
-                            <a href="https://discord.gg/DJKmu3gZ88"><h3><img src="images/web/discord_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
+                            <a href="https://t.me/doge1lol"><h3><img src="images/web/telegram_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
                           </div>
                       </div>

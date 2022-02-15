@@ -7,7 +7,8 @@ export function OHM() {
           <div className='bottom-space-md' />
           <div className='row' style={{flexFlow:'column'}}>
                     <h2 style={{fontSize: '35px', fontWeight: '500', textAlign: 'center', letterSpacing: '0.25em'}}>
-                    DOGE-1 OHM PROTOCOL
+                    DOGE-1 OHM
+                    <br /> PROTOCOL
                         </h2>
                         <h2 style={{fontSize: '12px', fontWeight: '100', textAlign: 'center', marginTop:'5px'}}>
                         ↡
