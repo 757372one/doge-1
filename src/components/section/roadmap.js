@@ -16,10 +16,13 @@ export function Roadmap() {
             <h3 className="timeline__title">Social Channels Launch</h3>
           </div>
           <div className="timeline__item">
-            <h3 className="timeline__title">Website Launch</h3>
+            <h3 className="timeline__title">Website Deployment</h3>
           </div>
           <div className="timeline__item">
-            <h3 className="timeline__title">Contract Test & Deployment</h3>
+            <h3 className="timeline__title">Contract Test</h3>
+          </div>
+          <div className="timeline__item">
+            <h3 className="timeline__title">Fair Launch</h3>
           </div>
           <h2 className="timeline__item timeline__item--year">2ND STAGE</h2>
           
@@ -27,7 +30,7 @@ export function Roadmap() {
             <h3 className="timeline__title">Twitter Influencer Partnerships</h3>
           </div>
           <div className="timeline__item">
-            <h3 className="timeline__title">Promoted Awareness</h3>
+            <h3 className="timeline__title">Promoted Awareness and Marketing</h3>
           </div>
           <div className="timeline__item">
             <h3 className="timeline__title">Airdrops and NFT Giveaways</h3>
@@ -57,7 +60,7 @@ export function Roadmap() {
             <h3 className="timeline__title">ƉOGE-1 DAO</h3>
           </div>
           <div className="timeline__item">
-            <h3 className="timeline__title">CEX Expansion</h3>
+            <h3 className="timeline__title">CEX Expansions</h3>
           </div>
           
           <h2 className="timeline__item timeline__item--year">MOON</h2>

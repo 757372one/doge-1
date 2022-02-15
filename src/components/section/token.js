@@ -118,6 +118,8 @@ export function Token() {
                   <div className='token__container'>
                   <div className='info__container-card'>
                       <div className='info__container-cardInfo'>
+                  <div className='bottom-space-sm' />
+
                       <h1>5%</h1>
                         <h2 style={{marginTop:'-25px'}}>POOL</h2>
                         <p style={{textAlign:'center'}}>3% of every transaction is allocated to maintaining a stable liquidity pool
@@ -126,6 +128,8 @@ export function Token() {
                     </div>
                     <div className='info__container-card'>
                       <div className='info__container-cardInfo'>
+                  <div className='bottom-space-sm' />
+
                       <h1>6%</h1>
                         <h2 style={{marginTop:'-25px'}}>REWARDS</h2>
                         <p style={{textAlign:'center'}} >6% of every transaction is taken and auto redistributed to all holders. 
@@ -135,6 +139,8 @@ export function Token() {
                     </div>
                     <div className='info__container-card'>
                       <div className='info__container-cardInfo'>
+                  <div className='bottom-space-sm' />
+
                         <h1>4%</h1>
                         <h2 style={{marginTop:'-25px'}}>ECOSYSTEM</h2>
                         <p style={{textAlign:'center'}} >4% of every transaction is split allocated to Marketing, Development and community fund.  
@@ -220,7 +226,6 @@ export function Token() {
                           </li>
                           <li>
                             <a href="#">
-                            <h3 style={{fontSize: '7px',fontWeight: '100',textAlign: 'center', marginBottom:'-10px'}}>🔒</h3>
                               <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                               7% 
                               <br />Reflections

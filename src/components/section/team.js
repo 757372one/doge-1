@@ -28,12 +28,11 @@ export function Team() {
                   <div className='token__container'>
                     <div className='info__container-card'>
                       <div className='info__container-cardInfo'>
-                        <h2>BUSINESS</h2>
+                        <h2>Shibshimi</h2>
                         <h2 style={{marginTop:'5px'}}>
                             <img src="images/web/doge_team.png"  alt="" style={{margin:'-15px', width:'70px'}} />
                         </h2>
-                        <p>Captain Shiba</p>
-                        <div className='icon-row'>
+                        <div className='icon-row2'>
                         <div className='col'>
                             <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
@@ -54,15 +53,15 @@ export function Team() {
                             <img src="images/web/you.png" width="100px" alt="" style={{margin:'-15px'}} />
                         </h2>
                         <p style={{textAlign:'center'}} >💎</p>
-                          <div className='icon-row'>
-                            <div className='col'>
-                            <a href="https://t.me/doge1_token"><h3><img src="images/web/telegram_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
+                          <div className='icon-row2'>
+                          <div className='col'>
+                            <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'0px'}} /></h3></a>
                             </div>
                             <div className='col'>
-                            <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
+                            <a href="https://t.me/doge1_token"><h3><img src="images/web/telegram_icon.png" alt="" style={{margin:'0px'}} /></h3></a>
                             </div>
                             <div className='col'>
-                            <a href="https://discord.gg/DJKmu3gZ88"><h3><img src="images/web/discord_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
+                            <a href="https://discord.gg/DJKmu3gZ88"><h3><img src="images/web/discord_icon.png" alt="" style={{margin:'0px'}} /></h3></a>
                             </div>
                           </div>
                           
@@ -70,12 +69,11 @@ export function Team() {
                     </div>
                     <div className='info__container-card'>
                     <div className='info__container-cardInfo'>
-                        <h2>DEVELOPMENT</h2>
+                        <h2>Dogemoto</h2>
                         <h2 style={{marginTop:'0px'}}>
                             <img src="images/web/doge_team1.png" alt="" style={{margin:'-5px'}} />
                         </h2>
-                        <p>Shibtoshi Dogemoto</p>
-                        <div className='icon-row'>
+                        <div className='icon-row2'>
                         <div className='col'>
                             <a href="contact@doge-1.lol"><h3><img src="images/web/email_icon.png" alt="" style={{margin:'-5px'}} /></h3></a>
                             </div>
