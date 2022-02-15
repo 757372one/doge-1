@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Pie } from "@vx/shape";
 import { Group } from "@vx/group";
-import useDimensions from "react-use-dimensions";
 import styled from "styled-components";
 import { LegendItem, LegendLabel, LegendOrdinal } from "@vx/legend";
 import { scaleOrdinal } from "@vx/scale";

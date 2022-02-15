@@ -5,7 +5,7 @@ export function Landing() {
 
   return (
     <div className="container">
-      <p className="bottom-space" style={{marginBottom:'100px'}} />
+      <p className="bottom-space" style={{marginBottom:'400px'}} />
       
           <div className='row' style={{flexFlow:'column'}}>
             <h2 style={{fontSize: '23px', fontWeight: '100', textAlign: 'center', fontFamily:'Montserrat', letterSpacing: '0.5em'}}>

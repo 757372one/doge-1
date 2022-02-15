@@ -4,7 +4,7 @@ export function Roadmap() {
     return (
       <div className="container">
         <div className='bottom-space-sm' />
-        <h2 style={{fontSize: '20px', fontWeight: '500', textAlign: 'center', letterSpacing: '0.25em'}}>
+        <h2 style={{fontSize: '50px', fontWeight: '300', textAlign: 'center', letterSpacing: '0.5em'}}>
                     MOONMAP
                         </h2>
         <div className="timeline">

@@ -2,8 +2,6 @@ import React from 'react';
 import PieChart from './sub/dounuts';
 import { TokenBanners } from './sub/token_banners';
 
-const truncate = (input, len) =>
-  input.length > len ? `${input.substring(0, len)}...` : input;
 
 export const data = {
   labels: ['PancakeSwap', 'Dev', 'Marketing', 'Advisors'],
@@ -186,7 +184,7 @@ export function Token() {
                   <div className="tree">
                     <ul>
                       <li>
-                        <a href="#">
+                        <a href="/#">
                           <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                           $DOGE-1
                           <br /> Tokenomic
@@ -195,7 +193,7 @@ export function Token() {
                         </a>
                         <ul>
                           <li>
-                            <a href="#">
+                            <a href="/#">
                               <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                               5% 
                               <br />Pool
@@ -203,7 +201,7 @@ export function Token() {
                             </a>  
                             <ul>
                               <li>
-                              <a href="#">
+                              <a href="/#">
                                 <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   3%
                                 <br />PancakeSwap 
@@ -213,7 +211,7 @@ export function Token() {
                               </a>  
                               </li>
                               <li>
-                              <a href="#">
+                              <a href="/#">
                                 <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   2% 
                                   <br />Reserve 
@@ -225,7 +223,7 @@ export function Token() {
                             </ul>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/#">
                               <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                               7% 
                               <br />Reflections
@@ -233,7 +231,7 @@ export function Token() {
                             </a>  
                             <ul>
                               <li>
-                                <a href="#">
+                                <a href="/#">
                                   <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   6% 
                                   <br />DOGE
@@ -242,7 +240,7 @@ export function Token() {
                                 </a>
                               </li>
                               <li>
-                                <a href="#">
+                                <a href="/#">
                                   <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   1% 
                                   <br />EcoCommunity
@@ -253,7 +251,7 @@ export function Token() {
                             </ul>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/#">
                               <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                               3% 
                               <br />Marketing
@@ -261,7 +259,7 @@ export function Token() {
                             </a>  
                             <ul>
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                   <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   2% 
                                   <br />Marketing
@@ -270,7 +268,7 @@ export function Token() {
                                 </a>
                               </li>
                               <li>
-                                <a href="#">
+                                <a href="/#">
                                   <h3 style={{fontSize: '15px',fontWeight: '100',textAlign: 'center'}}>
                                   1% 
                                   <br />Development
