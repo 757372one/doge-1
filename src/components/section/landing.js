@@ -24,7 +24,7 @@ export function Landing() {
                     
                         <p className="bottom-space" style={{marginBottom:'500px'}} />
                         <div className='float-div2'>
-                        <img src="images/web/doge1.gif" width="150px" alt="" style={{marginTop:'-5px'}} />
+                        <img src="images/web/doge1.gif" width="200px" alt="" style={{marginTop:'-5px'}} />
                         </div>
       <div className='row'>
               <div className='float-div'>

@@ -3,7 +3,7 @@ import {  useFrame } from "@react-three/fiber";
 
 const parameters = {}
 parameters.size = 0.01
-parameters.stars = 5000
+parameters.stars = 9000
 parameters.starColor = '#ffffff'
 parameters.insideColor = '#ff6030'
 parameters.outsideColor = '#1b3984'

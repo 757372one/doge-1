@@ -37,7 +37,7 @@ export function Moon(props){
         <ambientLight intensity={0.3} />
         <pointLight color="#f6f3ea" position={[100, 30, 70]} intensity={2.5} />
             <mesh ref={cloudsRef} position={[0, 0, 0]} >
-                <sphereGeometry args={[26.25, 32, 32]} />
+                <sphereGeometry args={[19.25, 32, 32]} />
                 <meshPhongMaterial
                 map={cloudMap}
                 opacity={0.5}
@@ -45,8 +45,8 @@ export function Moon(props){
                 transparent={true}
                 />
             </mesh>
-        <mesh ref={moonRef} position={[0, 0, 0]}>
-            <sphereGeometry args={[25, 64, 64]} />
+        <mesh ref={moonRef} rotation-z={-0.05} position={[0, 0, 0]}>
+            <sphereGeometry args={[18, 64, 64]} />
             <meshStandardMaterial map={moonMap}  metalness={0.98} roughnes={0.25} />
         </mesh>
         {/* <group ref={spaceshipRef}>
