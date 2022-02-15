@@ -45,7 +45,7 @@ export function Moon(props){
                 transparent={true}
                 />
             </mesh>
-        <mesh ref={moonRef} rotation-z={-0.05} position={[0, 0, 0]}>
+        <mesh ref={moonRef} rotation-z={-0.1} position={[0, 0, 0]}>
             <sphereGeometry args={[18, 64, 64]} />
             <meshStandardMaterial map={moonMap}  metalness={0.98} roughnes={0.25} />
         </mesh>
