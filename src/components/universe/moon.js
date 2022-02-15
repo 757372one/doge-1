@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import MoonMap from '../../assets/textures/moonmap4k.jpg';
 import CloudsMap from '../../assets/textures/dogecloud.png';
+import  Starship  from '../../assets/starship.glb';
 import { TextureLoader } from "three";
 import { useLoader, useFrame } from "@react-three/fiber";
 import { useGLTF } from '@react-three/drei';
@@ -51,7 +52,7 @@ export function Moon(props){
             <meshStandardMaterial map={moonMap}  metalness={0.98} roughnes={0.25} />
         </mesh>
         <group ref={spaceshipRef}>
-            <Model  rotation-z={1.95} position={[10.5,15,0]} scale={0.0010} url='/starship.gltf' /> 
+            <Model  rotation-z={1.95} position={[10.5,15,0]} scale={0.0010} url={Starship} /> 
         </group>
     </>
     );

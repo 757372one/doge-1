@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.41e18de5.css",
-    "main.js": "/static/js/main.baf81fc7.js",
+    "main.js": "/static/js/main.f49c3696.js",
+    "static/media/starship.glb": "/static/media/starship.45f7abd511b9ae0da6ab.glb",
     "static/media/moonmap4k.jpg": "/static/media/moonmap4k.738f945ef312bcd60d15.jpg",
     "static/media/dogecloud.png": "/static/media/dogecloud.35c71ab68c520a371b17.png",
     "index.html": "/index.html",
     "main.41e18de5.css.map": "/static/css/main.41e18de5.css.map",
-    "main.baf81fc7.js.map": "/static/js/main.baf81fc7.js.map"
+    "main.f49c3696.js.map": "/static/js/main.f49c3696.js.map"
   },
   "entrypoints": [
     "static/css/main.41e18de5.css",
-    "static/js/main.baf81fc7.js"
+    "static/js/main.f49c3696.js"
   ]
 }
