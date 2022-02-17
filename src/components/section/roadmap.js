@@ -57,21 +57,22 @@ export function Roadmap() {
             <h3 className="timeline__title">Certik Audit & KYC</h3>
           </div>
           <div className="timeline__item">
-            <h3 className="timeline__title">ƉOGE-1 DAO</h3>
-          </div>
-          <div className="timeline__item">
             <h3 className="timeline__title">CEX Expansions</h3>
           </div>
           
-          <h2 className="timeline__item timeline__item--year">MOON</h2>
           
+          
+          <h2 className="timeline__item timeline__item--year">MOON</h2>
+          <div className="timeline__item">
+            <h3 className="timeline__title">ƉOGE-1 DAO</h3>
+          </div>
+          <div className="timeline__item">
+            <h3 className="timeline__title">DOGE-1 OHM PROTOCOL</h3>
+          </div>
           <div className="timeline__item">
             <h3 className="timeline__title">Opensource Charity Voting</h3>
           </div>
-          <div className="timeline__item">
-            <h3 className="timeline__title">ƉOGE-1 Mainnet Migration</h3>
-          </div>
-          
+          <h2 className="timeline__item timeline__item--year">ƉOGE-1 Mainnet Migration</h2>
         </div>
       </div> 
     );

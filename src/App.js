@@ -32,7 +32,6 @@ function App() {
           <Landing />
           <Token />
           <Roadmap />
-          <OHM />
           <Team />
           <Footer />
       </div>

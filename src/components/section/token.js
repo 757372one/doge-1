@@ -39,6 +39,14 @@ export function Token() {
                             <a href="https://twitter.com/doge1lol"><h3><img src="images/web/twitter_icon.png" alt="" style={{margin:'5px'}} /></h3></a>
                             </div>
                           </div>
+              <div className='row' style={{display:'flex', flexFlow:'column', alignItems:'center', letterSpacing: '0.5em'}}>
+              <h3 style={{fontSize: '20px', padding: '5px 0px 5px 0px', opacity:1}}>WE ARE READY</h3>
+        <a href={'https://twitter.com/elonmusk/status/1391523807148527620'}>
+        <img src='images/web/tweet.jpg'  width="350px" alt=''  />
+        </a>
+          
+        </div>
+        <p className="bottom-space-sm" />
         <TokenBanners />
         <p className="bottom-space-sm" />
 
