@@ -182,7 +182,7 @@ export function Token() {
                   </div>
                   <div className='bottom-space-md' />
                   <div className='row' style={{flexFlow: 'column', alignItems:'center'}}>
-                      <h3 style={{fontSize: '17px', margin: '0px 0px 0px 0px', opacity:1}}>HODL MIN* 2 MILLION $DOGE-1</h3>
+                      <h3 style={{fontSize: '17px', margin: '0px 0px 0px 0px', opacity:1}}>HODL MIN* 20 MILLION $DOGE-1</h3>
                       <h3 style={{fontSize: '15px', margin: '0px 0px 0px 0px', opacity:1}}>*to receive $DOGE rewards</h3>
                   </div>
                   <div className='bottom-space-sm' />

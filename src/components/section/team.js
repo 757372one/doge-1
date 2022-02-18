@@ -9,6 +9,10 @@ export function Team() {
       <div className='container'>
           <p className="bottom-space-md" />
             <div className='team__wrapper'>
+            <div className='row' style={{alignItems: 'center', flexFlow:'column'}}>
+                  <img src="images/web/doge1-badge_32.png" width="50px" alt="" style={{marginTop:'-5px'}} />
+                
+              </div>
             <div className="row" style={{display:'flex', flexFlow:'column'}}>
             <h2 style={{fontSize: '35px', fontWeight: '500', textAlign: 'center', letterSpacing: '0.75em'}}>
                     JOIN US
