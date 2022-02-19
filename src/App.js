@@ -6,7 +6,7 @@ import { Header } from './components/section/header';
 import { Landing } from './components/section/landing';
 import { Token } from './components/section/token';
 import { Team } from './components/section/team';
-import { OHM } from './components/section/OHM';
+import { DogeDash } from './components/section/sub/doge-dash';
 import { Footer } from './components/section/footer';
 import { Moon } from './components/universe/moon';
 import { Universe } from './components/universe/universe';
@@ -31,6 +31,7 @@ function App() {
           <Header />
           <Landing />
           <Token />
+          <DogeDash />
           <Roadmap />
           <Team />
           <Footer />
