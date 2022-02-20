@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.41e18de5.css",
-    "main.js": "/static/js/main.37d9e131.js",
+    "main.js": "/static/js/main.0571ed0e.js",
     "static/media/moonmap4k.jpg": "/static/media/moonmap4k.738f945ef312bcd60d15.jpg",
     "static/media/dogecloud.png": "/static/media/dogecloud.ed4516241a05defaba4f.png",
     "index.html": "/index.html",
     "main.41e18de5.css.map": "/static/css/main.41e18de5.css.map",
-    "main.37d9e131.js.map": "/static/js/main.37d9e131.js.map"
+    "main.0571ed0e.js.map": "/static/js/main.0571ed0e.js.map"
   },
   "entrypoints": [
     "static/css/main.41e18de5.css",
-    "static/js/main.37d9e131.js"
+    "static/js/main.0571ed0e.js"
   ]
 }
